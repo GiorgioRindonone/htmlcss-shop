@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.blocco {
+ display: inline-block;
+ position: relative;
+}
+
+
+.sconto20 {
+background-color: lightyellow;
+position: absolute;
+top: 0;
+right: 0;
+text-align: center;
+}
+
+.sconto30 {
+background-color: lightgreen;
+position: absolute;
+top: 0;
+right: 0;
+text-align: center;
+}
+
+.sconto15 {
+background-color: lightblue;
+position: absolute;
+top: 0;
+right: 0;
+text-align: center;
+}
